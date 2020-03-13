@@ -635,7 +635,7 @@ section.giftgallery > p:last-child span:hover {
 #gifttop {
   box-sizing: border-box;
   background-color: #fff;
-  background-image: url("../image/giftbackground.png");
+  background-image: url("image/giftbackground.png");
   background-repeat: no-repeat;
   background-size: cover;
   background-size: 100% auto;
@@ -657,7 +657,7 @@ section.lifeabout {
   margin: 0 auto;
   text-align: center;
   padding-top: 15%;
-  background-image: url(../image/lifecar.jpg);
+  background-image: url(image/lifecar.jpg);
   color: #000;
   background-color: #fff;
   background-repeat: no-repeat;
@@ -678,7 +678,7 @@ div.lifemainimg {
   width: 33.3%;
 }
 .lifemainimg div:first-child {
-  background-image: url(../image/lifeimg1.jpg);
+  background-image: url(image/lifeimg1.jpg);
   color: #000;
   background-color: #fff;
   background-repeat: no-repeat;
@@ -693,7 +693,7 @@ div.lifemainimg {
   left: 13%;
 }
 .lifemainimg div:nth-child(2) {
-  background-image: url(../image/lifeimg2.jpg);
+  background-image: url(image/lifeimg2.jpg);
   color: #000;
   background-color: #fff;
   background-repeat: no-repeat;
@@ -708,7 +708,7 @@ div.lifemainimg {
   right: 4%;
 }
 .lifemainimg div:last-child {
-  background-image: url(../image/lifeimg3.jpg);
+  background-image: url(image/lifeimg3.jpg);
   color: #000;
   background-color: #fff;
   background-repeat: no-repeat;
@@ -802,7 +802,7 @@ div.lifemenu {
 }
 /*そのまま飾れる*/
 .lifedecorate {
-  background-image: url("../image/flower.jpg");
+  background-image: url("image/flower.jpg");
   color: #000;
   background-color: #fff;
   background-repeat: no-repeat;
@@ -896,7 +896,7 @@ div.lifemenu {
   text-align: center;
   color: #000;
   background-color: #fff;
-  background-image: url("../image/contactmain.png");
+  background-image: url("image/contactmain.png");
   background-repeat: no-repeat;
   background-size: cover;
   background-size: 100% auto;
